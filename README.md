@@ -1,6 +1,9 @@
-## *<div align="center">I'm Franco, a  Software Development student at UTN👨‍💻 </div>*  
+# *<div align="center">HI! I'm Franco 👋</div>*  
   
 
+- 🎓 Student at UTN, Argentina
+
+  
 - 🌱 I’m currently learning React and .NET   
   
 
