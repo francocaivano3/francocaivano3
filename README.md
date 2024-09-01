@@ -7,9 +7,6 @@
 - 🌱 I’m currently learning React and .NET CORE
   
 
-- 🎥 My hobbies are content creation and video games  
-  
-
 - 📍Rosario, Argentina  
   
 
