@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning React and .NET CORE
   
 
-- 📍Rosario, Argentina  
+- 📍 Rosario, Argentina  
   
 
 <br/>  
