@@ -20,7 +20,7 @@
 
 ### Frontend                                                                          
 <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" height="40" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px, height: 20px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://tailwindcss.com/" target="_blank">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" style="margin: 10px" alt="Tailwind">
 </a>
