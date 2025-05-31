@@ -4,10 +4,13 @@
 - 🎓 Student at UTN, Argentina
 
   
-- 🌱 I’m currently learning React and .NET CORE
+- 🚀 Looking to grow as a full-stack developer and contribute to real-world projects
+
+
+- 💻 Passionate about building useful web applications
   
 
-- 📍 Rosario, Argentina  
+- 📍 Based in Rosario, Argentina  
   
 
 <br/>  
