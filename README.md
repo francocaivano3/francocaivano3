@@ -5,9 +5,6 @@
 
   
 - 🚀 Looking to grow as a full-stack developer and contribute to real-world projects
-
-
-- 💻 Passionate about building useful web applications
   
 
 - 📍 Based in Rosario, Argentina  
