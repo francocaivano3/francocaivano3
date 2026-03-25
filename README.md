@@ -38,6 +38,9 @@
   <a href="https://www.linkedin.com/in/franco-caivano/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
+  <a href="https://francocaivano.vercel.app" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
+</a>
 </div>
 
 ###
