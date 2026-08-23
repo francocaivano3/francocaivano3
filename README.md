@@ -31,18 +31,9 @@
 
 ### 📊 GitHub Stats
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=francocaivano3&show_icons=true&hide_border=true&cache_seconds=86400&title_color=52B788&text_color=D8F3DC&icon_color=74C69D&bg_color=0D1F17" alt="github stats" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francocaivano3&layout=compact&hide_border=true&cache_seconds=86400&title_color=52B788&text_color=D8F3DC&bg_color=0D1F17" alt="top languages" />
-
 <img src="https://streak-stats.demolab.com?user=francocaivano3&hide_border=true&background=0D1F17&border=1B4332&stroke=1B4332&ring=40916C&fire=74C69D&currStreakNum=D8F3DC&sideNums=D8F3DC&currStreakLabel=52B788&sideLabels=74C69D&dates=95D5B2" alt="streak stats" />
 
 <br/>
-
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=francocaivano3&theme=matrix&no-frame=true&row=1&column=6" alt="trophies" />
-
-<br/><br/>
 
 ### 🤝 Let's connect
 
